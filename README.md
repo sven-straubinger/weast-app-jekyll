@@ -3,7 +3,12 @@
 # weast-app-jekyll
 Microsite for the iOS app Weast (Swift) — built with Jekyll.
 
-## Run
+## Serve
 
 * Install Jekyll (once)
 * Run `bundle exec jekyll serve` within root folder
+
+## Build
+
+* Run `bundle exec jekyll build` within root folder
+* Look into your `_site` folder
